@@ -9,7 +9,7 @@
 ---
 
 ## 🌍 Onde me encontrar
-📫 [LinkedIn]([https://www.linkedin.com/in/jessicaguedes-martins] • 🎨 [Portfólio em construção](https://x) • 🐙 [GitHub](https://github.com/Jessica-grm)
+📫 [LinkedIn]([https://www.linkedin.com/in/jessicaguedes-martins]) • 🎨 [Portfólio em construção](https://x) • 🐙 [GitHub](https://github.com/Jessica-grm)
 
 ---
 
