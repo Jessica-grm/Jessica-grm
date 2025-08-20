@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👩‍💻 Hey, eu sou a Jessica!  
 
-<!--
-**Jessica-grm/Jessica-grm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Designer UI/UX migrando para o mundo do **Front-End**  
+📚 Estudante de **Análise e Desenvolvimento de Sistemas**  
+🎨 Experiência com design, edição de imagens, campanhas digitais e WordPress  
+⚡ Atualmente explorando **HTML | CSS | JavaScript | React**  
+🚀 Apaixonada por criar soluções que unem **design + tecnologia**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Onde me encontrar
+📫 [LinkedIn]([https://www.linkedin.com/in/jessicaguedes-martins] • 🎨 [Portfólio em construção](https://x) • 🐙 [GitHub](https://github.com/Jessica-grm)
+
+---
+
+## 🚀 Projetos em Destaque
+- [Meu Portfólio](https://github.com/Jessica-grm-portfolio)  
